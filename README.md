@@ -1,2 +1,0 @@
-# lolbooterG
-booter panel website
